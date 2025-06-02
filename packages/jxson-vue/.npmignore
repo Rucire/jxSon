@@ -1,0 +1,71 @@
+# Source files (build output is in dist/)
+src/
+
+# Development configuration files
+*.config.js
+*.config.ts
+tsconfig*.json
+.prettierrc
+.eslintrc*
+.editorconfig
+
+# Development dependencies
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build tools and development files
+vite.config.*
+rollup.config.*
+webpack.config.*
+postcss.config.*
+tailwind.config.*
+
+# Testing
+test/
+tests/
+__tests__/
+*.test.*
+*.spec.*
+coverage/
+.nyc_output/
+
+# Documentation (not needed in package)
+docs/
+.github/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Development cache and temporary files
+.cache/
+.temp/
+.tmp/
+*.log
+*.tgz
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Environment files
+.env*
+
+# Only include built files in dist/
+# Everything else is excluded by default unless specifically included 

@@ -1,0 +1,28 @@
+{
+  "name": "@rucire/jxson-monorepo",
+  "version": "1.0.0",
+  "author": "Rucire",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rucire/jxSon.git"
+  },
+  "description": "jxSon - A powerful JSON editor component library. Currently available for Vue 3, with React support coming soon.",
+  "scripts": {
+    "build": "pnpm --filter @rucire/jxson-vue build",
+    "dev": "pnpm --filter @rucire/jxson-examples dev"
+  },
+  "devDependencies": {
+    "pnpm": "^8.0.0"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "react",
+    "json",
+    "config",
+    "editor",
+    "ui",
+    "rucire"
+  ]
+}
