@@ -2,7 +2,7 @@
 
 # jxSon
 
-[![npm version](https://badge.fury.io/js/@rucire%2Fjxson-vue.svg)](https://badge.fury.io/js/@rucire%2Fjxson-vue)
+[![npm version](https://badge.fury.io/js/%40rucire%2Fjxson-vue.svg)](https://badge.fury.io/js/%40rucire%2Fjxson-vue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A powerful, feature-rich JSON editor component library by **Rucire**. Currently available for Vue 3 applications with real-time validation and a beautiful UI. React version coming soon!
